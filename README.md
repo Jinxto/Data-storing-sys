@@ -57,9 +57,9 @@ Easily start your Reactive RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
 
-##Flow Chart
+## Flow Chart
 
-###Database
+### Database
 
 This specific software has been programmed for my future project, the variables are the indications of it
 
