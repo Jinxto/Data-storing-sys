@@ -56,3 +56,13 @@ If you want to learn more about building native executables, please consult http
 Easily start your Reactive RESTful Web Services
 
 [Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
+
+##Flow Chart
+
+###Database
+
+This specific software has been programmed for my future project, the variables are the indications of it
+
+![Screenshot from 2023-05-27 13-00-02](https://github.com/Jinxto/Data-storing-sys/assets/67891519/dce1bf14-6d98-4bdf-a9d5-060dafe17d3d)
+
+
